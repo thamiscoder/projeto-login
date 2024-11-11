@@ -3,6 +3,10 @@
 
 
 @media screen and (min-width: 768px) and (max-width: 992px) {
+    body {
+        background-image: linear-gradient(to top, rgb(63, 179, 218), rgb(86, 84, 208));
+    }
+    
     section#login {
         width: 80vw;
     }
@@ -21,6 +25,10 @@
 }
 
 @media screen and (min-width: 992px) {
+    body {
+        background-image: linear-gradient(to top, rgb(63, 179, 218), rgb(86, 84, 208));
+    }
+
     section#login {
         width: 950px;
     }

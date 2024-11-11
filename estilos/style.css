@@ -3,7 +3,7 @@
 /*
    Paleta de cores
    Verde: #49a09d
-   Lilás: #5f2c82
+   Lilás: #5f2c82 
 */
 
 
@@ -15,7 +15,7 @@
 }
 
 body, html {
-   background-image: linear-gradient(to top, rgb(63, 179, 218), rgb(86, 84, 208));
+   background-color: rgb(86, 84, 208);
    height: 100vh;
    width: 100vw;
 }
