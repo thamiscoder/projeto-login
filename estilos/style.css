@@ -15,7 +15,7 @@
 }
 
 body, html {
-   background-color: #5f2c82;
+   background-image: linear-gradient(to top, rgb(63, 179, 218), rgb(86, 84, 208));
    height: 100vh;
    width: 100vw;
 }
@@ -38,6 +38,8 @@ main {
    height: 500px;
    border-radius: 20px;
    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.518);
+
+   transition: width .5s, height .5s;
 }
 
 #login > #imagem {
